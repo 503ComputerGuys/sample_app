@@ -1,0 +1,14 @@
+<% provide(:title, 'Help') %>
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Ruby on Rails Tutorial Sample App | Help</title>
+  </head>
+  <body>
+    <h1>Help</h1>
+    <p>
+      Get help at <a href="http://railstutorial.org/">Ruby on Rails Tutorial</a>
+      sample application.
+    </p>
+  </body>
+</html>

@@ -1,0 +1,15 @@
+<% provide(:title, 'Contact Us') %>
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Ruby on Rails Tutorial Sample App | Home</title>
+  </head>
+  <body>
+    <h1>Contact Us</h1>
+    <p>
+      To contact the designer of this tutroial visit the 
+      <a href="http://railstutorial.org/">Ruby on Rails Tutorial</a>
+      sample application.
+    </p>
+  </body>
+</html>
